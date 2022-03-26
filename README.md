@@ -3,6 +3,11 @@
 ## Goal
 APEX is a single product page for an ecommerce website.
 
+Demo
+apex-ecomm.mov
+
+
+
 ## Features
 _______________________________________________________
 
@@ -46,6 +51,6 @@ _______________________________________________________
 
 ## Setup instructions
 1. npm install
-2. add API key in server/config/config.js
+2. Make a copy of env-example.js, rename to .env and add API key, Base Url, and Port
 3. npm run react-dev
 4. npm run server-dev

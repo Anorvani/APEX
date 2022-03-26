@@ -4,7 +4,7 @@ import axios from 'axios';
 import NavBar from './NavBar.jsx';
 import Product from './Overview/Product.jsx';
 import ReviewList from './Reviews/ReviewList.jsx';
-import RelatedList from './Related/RelatedList.jsx';
+// import RelatedList from './Related/RelatedList.jsx';
 import QAList from './Questions/QAList.jsx';
 import styled, { ThemeProvider } from 'styled-components';
 import { lightMode, darkMode, GlobalStyles } from './Shared/Themes.js';
@@ -56,7 +56,7 @@ const App = () => {
             <br></br>
             <Product />
             <br></br>
-            <RelatedList />
+            {/* <RelatedList /> */}
             <QAList />
             <ReviewList />
           </div>
