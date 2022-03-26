@@ -4,8 +4,7 @@
 APEX is a single product page for an ecommerce website.
 
 Demo
-[!Demo] (https://drive.google.com/file/d/1bOK_PkiCYk0RNlazc6bf4QIHsLfQZZ7N/view?usp=sharing)
-
+[!Demo](https://media.giphy.com/media/8chl05WOIRycGOVmxA/giphy.gif)
 
 
 ## Features
